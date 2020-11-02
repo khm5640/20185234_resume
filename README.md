@@ -3,14 +3,9 @@
 
 ## java script
 ### - 치매 예방 프로그램
-
-''' js
-
-<html>
-<body>
-<script type= "text/javascript">
-	
-	var mes,i,res1,res2,suc,fail,wch,yet;
+#### 일부 code
+```js
+var mes,i,res1,res2,suc,fail,wch,yet;
 
 	var a=["체리","포도","딸기","멜론"]; 
  	var b=["아이스아메리카노","유자차","아이스크림","카페라떼"]; 
@@ -49,76 +44,10 @@
 		}	
 		else
 		   document.write(yet);
-	
 		
 	}
-
-
-
-
-	else if(choice==2)
-	{
-		res=confirm(" [ 디저트 ]를 선택 하셨습니다 ! \n  물개는 오직 차가운 것만을 먹습니다.\n  차가운 것이 나오면 확인을,  그 외의 것이 나오면\n 취소를 눌러서 디저트를 분류해주세요^^\n  " + mes);
-	              if(res==true)
-		{
-			for(i=0;i<4;i++)
-			{
-				if(i%2==0)
-					res1=confirm(b[i]);
-				else
-					res2=confirm(b[i]);
-			}
-
-		       if(res1==true && res2==false)
-	                     {
-			document.write(suc);
-	                      }
-
-		       else
-			document.write(fail);
-			
-	
-		}	
-		else
-		   document.write(yet);
-	
-		
-	}
-
-
-	else if(choice==3)
-	{
-		res=confirm(" [ 음식 ]을 선택 하셨습니다 ! \n  물개는 오직 따뜻한 음식만을 먹습니다.\n  따뜻한 것이 나오면 확인을,  그 외의 것이 나오면\n 취소를 눌러서 음식을 분류해주세요^^\n  " + mes);
-	              if(res==true)
-		{
-			for(i=0;i<4;i++)
-			{
-				if(i%2==1)
-					res1=confirm(c[i]);
-				else
-					res2=confirm(c[i]);
-			}
-
-		       if(res1==true && res2==false)
-	                     {
-			document.write(suc);
-	                      }
-
-		       else
-			document.write(fail);
-			
-	
-		}	
-		else
-		   document.write(yet);
-	
-		
-	}
-
-	else
-		document.write(wch)
-
-   </script>
-  </body>
- </html>
- '''
+```
+![alt text](image.jpg)
+![alt text](image.jpg)
+![alt text](image.jpg)
+![alt text](image.jpg)
