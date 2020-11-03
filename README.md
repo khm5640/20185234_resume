@@ -225,13 +225,15 @@ result
 
 ### AI 기술
 - 언택트 기술:
-	+ [언택트의 중심 AI](http://naver.me/FTnYnQES)
-	+ [언택트 시대, AI 헬스케어](http://naver.me/IIxaxio4)
+	+ [언택트의 중심 AI](http://www.sporbiz.co.kr/news/articleView.html?idxno=500341)
+	+ [스타트업에 의한 언택트 미래](http://www.startuptoday.kr/news/articleView.html?idxno=40568)
+	+ [언택트 시대, AI 헬스케어](http://m.bosa.co.kr/news/articleView.html?idxno=2137114)
 
 
 ### 5G 기술
--  [sk텔레콤  5G](http://naver.me/GyjJjlCj)
--  [수자원공사 5G](http://naver.me/GqHaHhOR)
+-  [sk텔레콤  5G](https://www.google.co.kr/amp/s/m.biz.chosun.com/news/article.amp.html%3fcontid=2020110201048)
+-  [5G 기술 전수](http://m.inews24.com/v/1313117#_DYAD)
+-  [수자원공사 5G](https://www.google.co.kr/amp/s/m.nocutnews.co.kr/news/amp/5440832)
 
 
 ### 클라우드, IoT기술
