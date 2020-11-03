@@ -236,7 +236,7 @@ result
 
 ### 클라우드, IoT기술
 
-- [MS 홀로렌즈2](http://naver.me/xOf3fR9T)
+- [MS 홀로렌즈2](https://www.google.co.kr/amp/s/m.biz.chosun.com/news/article.amp.html%3fcontid=2020110201680)
 
 
 ***
